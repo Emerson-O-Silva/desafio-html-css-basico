@@ -1,13 +1,20 @@
-.conteudo-produto {
-    background-color: #424250;
-    padding: 10px;
-}
-
 .produto-moda {
     background-color: #BB86FC;
+    color: #ffffff;
 }
 
 .produto-casa {
     background-color: #00C4B4;
+    color: #ffffff;
 }
 
+.conteudo-produto {
+    background-color: #424250;
+    color: #ffffff;
+    padding: 10px 20px;
+}
+
+td, th {
+    font-size: 20px;
+    padding: 10px 15px;
+}
